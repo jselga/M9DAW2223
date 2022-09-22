@@ -1,0 +1,17 @@
+/* Estils per colors*/
+
+.colors {
+    color: orangered;
+}
+
+.color-hexa {
+    color: #15e6cd;
+}
+
+.color-rgb {
+    color: rgb(53, 71, 226);
+}
+
+.color-rgba {
+    color: rgba(53, 71, 226, 0.5);
+}
