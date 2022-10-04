@@ -8,7 +8,7 @@
     
     .relative {
         position: relative;
-        left: 80px;
+        left: 50px;
         margin-left: 10px;
     }
     /* Pos. Fixe- Es posiciona en relacio a la pantalla */
@@ -20,19 +20,23 @@
         background-color: greenyellow;
         z-index: 10;
     }
-    /* Pos. Absolut Es posiciona en relacio a la pantalla */
-    
-    .absolute {
-        position: absolute;
-        top: 30px;
-        right: 0px;
-        background-color: brown;
-    }
+    /* Pos. Absolut Es posiciona en relacio a l'element ancestre */
     
     .relative.container {
         width: 300px;
         height: 400px;
         background-color: blue;
+    }
+    
+    .absolute {
+        position: absolute;
+        top: 30px;
+        right: 10px;
+        background-color: brown;
+    }
+    
+    .container {
+        background-color: green;
     }
     /* Pos. Sticky En fer scroll modifica el seu posicionament relative-fixed*/
     
