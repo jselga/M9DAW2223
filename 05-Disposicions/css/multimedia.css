@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.imatge-principal {
+    width: 100vw;
+    opacity: 0.5;
+}
+
+.imatge-principal:hover {
+    opacity: 1;
+}
+
+.galeria {}
+
+
+/*Properament FlexBox*/
+
+.imatge-galeria {
+    width: 150px;
+}
+
+.imatge-galeria:hover {
+    opacity: 0.3;
+    cursor: pointer;
+}
