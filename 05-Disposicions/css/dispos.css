@@ -1,6 +1,10 @@
         .div-1,
         .div-2 {
-            background-color: red;
+            background-color: rgb(49, 85, 168);
+            /*width: 100px;
+            height: 100px;
+            */
+            /*display: inline;*/
             /* display: block; PER DEFECTE*/
         }
         
@@ -16,6 +20,6 @@
         
         .img {
             width: 100px;
-            height: 50px;
+            height: 100px;
             /* display: inline-block; PER DEFECTE*/
         }
