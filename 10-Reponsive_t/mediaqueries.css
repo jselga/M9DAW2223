@@ -11,7 +11,7 @@
         /* @media screen and (max-width:576px) { */
         
         
-       /* 
+   
        
         @media (min-width: 576px) {
             h1 {
@@ -24,13 +24,13 @@
             }
         }
         
-        @media (min-height: 300px) {
+        /* @media (min-height: 300px) {
             p {
                 color: cyan;
             }
-        }
+        } */
         
-        @media (orientation:landscape) {
+        /* @media (orientation:landscape) {
             p {
                 color: brown;
             }
@@ -41,4 +41,4 @@
             h1 {
                 color: #888;
             }
-        }  */
+        }   */

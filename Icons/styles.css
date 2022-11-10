@@ -1,0 +1,17 @@
+.icon-1st i {
+    font-size: 2rem;
+    padding: 0.8rem 0.8rem;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2509803922);
+    color: green;
+  }
+  .icon-2nd i {
+    font-size: 2rem;
+    padding: 0.75rem 0.8rem;
+    
+    border-radius: 50%;
+    /* box-shadow: 0 0 0px rgba(0, 0, 0, 0.2509803922); */
+    color: yellow;
+    background-color: aquamarine;
+    
+  }
